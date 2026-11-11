@@ -1,0 +1,63 @@
+/* style.css - all colours and looks of the dashboard live here (app.py stays clean) */
+:root{--hero:url("data:image/jpeg;base64,__HERO__");--navy:#0a3a71;--orange:#f99410;}
+.stApp{__BG__}
+#MainMenu,footer{visibility:hidden}
+header[data-testid="stHeader"]{background:transparent}
+.block-container{padding-top:1.2rem;max-width:1280px}
+
+/* ---- Top banner ---- */
+.hero{background:linear-gradient(100deg,rgba(10,58,113,.95) 0%,rgba(10,58,113,.78) 45%,rgba(10,58,113,.25) 100%),var(--hero);
+ background-size:cover;background-position:center 40%;border-radius:18px;padding:40px 36px 30px;color:#fff;
+ border-bottom:6px solid var(--orange);margin-bottom:18px;box-shadow:0 8px 24px rgba(10,58,113,.25)}
+.hero .tag{display:inline-block;background:var(--orange);color:#fff;font-weight:700;font-size:.75rem;letter-spacing:.08em;
+ text-transform:uppercase;padding:4px 12px;border-radius:20px}
+.hero h1{color:#fff;font-size:1.9rem;line-height:1.25;margin:12px 0 4px;max-width:760px;padding:0}
+.hero p{margin:0;opacity:.92;font-size:1rem}
+.hero .chips{margin-top:18px;display:flex;flex-wrap:wrap;gap:8px}
+.hero .chip{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.35);padding:4px 12px;border-radius:20px;font-size:.8rem}
+
+/* ---- Number cards (KPI) ---- */
+.kgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:14px;margin:6px 0 18px}
+.kpi{background:#fff;border:1px solid #e3e8ef;border-radius:14px;padding:14px 16px;border-top:4px solid var(--c,#0a3a71);
+ box-shadow:0 2px 8px rgba(10,58,113,.06)}
+.kpi .l{color:#5d6b7b;font-size:.8rem;text-transform:uppercase;letter-spacing:.05em}
+.kpi .v{color:var(--navy);font-size:1.9rem;font-weight:700;line-height:1.2}
+.kpi .s{color:#5d6b7b;font-size:.78rem}
+
+/* ---- Insight box and section headings ---- */
+.ins{background:#fff;border:1px solid #e3e8ef;border-left:5px solid var(--orange);border-radius:12px;padding:12px 16px;margin-bottom:16px;color:#1b2430}
+.sec{color:var(--navy);font-weight:700;font-size:1.15rem;margin:18px 0 8px;padding-left:10px;border-left:5px solid var(--orange)}
+
+/* ---- Attendance rule boxes ---- */
+.rules{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:8px 0 16px}
+.rule{background:#fff;border:1px solid #e3e8ef;border-left:6px solid var(--c);border-radius:10px;padding:10px 14px}
+.rule b{color:var(--c);font-size:1rem}
+.rule span{display:block;color:#5d6b7b;font-size:.82rem;margin-top:2px}
+
+/* ---- Faculty block with department cards ---- */
+.fh{background:var(--c);color:#fff;border-radius:12px 12px 0 0;padding:10px 16px;display:flex;justify-content:space-between;
+ flex-wrap:wrap;gap:6px;font-weight:600;margin-top:18px}
+.fh small{opacity:.9;font-weight:400}
+.fb{background:rgba(255,255,255,.92);border:1px solid #e3e8ef;border-top:none;border-radius:0 0 12px 12px;padding:14px}
+.dgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+.dc{background:#fff;border:1px solid #e3e8ef;border-left:5px solid var(--c);border-radius:10px;padding:10px 12px}
+.dn{font-weight:700;color:#1b2430;font-size:.9rem;line-height:1.25;min-height:2.2em}
+.ds{color:#5d6b7b;font-size:.75rem;margin-bottom:6px}
+.br{display:flex;justify-content:space-between;font-size:.78rem;color:#5d6b7b}.br b{color:#1b2430}
+.mt{height:6px;background:#e9edf2;border-radius:4px;margin:2px 0 7px;overflow:hidden}.mt i{display:block;height:100%;background:var(--c)}
+.dr{font-size:.78rem;color:#5d6b7b}.dr.bad{color:#c0392b;font-weight:700}
+
+/* ---- Charts, tabs, sidebar ---- */
+div[data-testid="stPlotlyChart"]{background:#fff;border:1px solid #e3e8ef;border-radius:14px;padding:6px;box-shadow:0 2px 8px rgba(10,58,113,.05)}
+.stTabs [data-baseweb="tab-list"]{gap:6px;background:rgba(255,255,255,.9);padding:6px;border-radius:12px;border:1px solid #e3e8ef;flex-wrap:wrap}
+.stTabs [data-baseweb="tab"]{border-radius:8px;padding:8px 16px;font-weight:600}
+.stTabs [aria-selected="true"]{background:var(--navy);color:#fff !important}
+.stTabs [data-baseweb="tab-highlight"],.stTabs [data-baseweb="tab-border"]{display:none}
+section[data-testid="stSidebar"]{border-right:4px solid var(--orange)}
+.sb{background:var(--navy);color:#fff;border-radius:10px;padding:12px 14px;font-weight:700;line-height:1.3;margin-bottom:10px}
+.sb small{display:block;font-weight:400;opacity:.85}
+
+/* ---- Footer at the bottom of the page ---- */
+.built{margin-top:36px;padding:16px;text-align:center;background:var(--navy);color:#fff;border-radius:14px 14px 0 0;
+ border-top:5px solid var(--orange);font-size:.95rem}
+.built b{color:var(--orange)}

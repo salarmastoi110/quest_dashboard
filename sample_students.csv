@@ -1,0 +1,157 @@
+id,name,faculty,department,semester,gpa,attendance
+220001,Rabia Memon,Faculty of Computer Engineering,Computer Systems Engineering,6,2.63,72
+220002,Ayesha Leghari,Faculty of Computer Engineering,Computer Systems Engineering,3,2.11,77
+220003,Mehwish Jatoi,Faculty of Computer Engineering,Computer Systems Engineering,2,2.31,83
+220004,Ayesha Abro,Faculty of Computer Engineering,Computer Systems Engineering,3,2.77,72
+220005,Imran Rind,Faculty of Computer Engineering,Computer Systems Engineering,5,1.96,71
+220006,Asif Shaikh,Faculty of Computer Engineering,Computer Systems Engineering,5,1.99,58
+220007,Ali Kalhoro,Faculty of Computer Engineering,Artificial Intelligence,1,2.73,79
+220008,Zain Abro,Faculty of Computer Engineering,Artificial Intelligence,4,2.41,78
+220009,Ayesha Kalhoro,Faculty of Computer Engineering,Artificial Intelligence,3,2.41,69
+220010,Ayesha Memon,Faculty of Computer Engineering,Artificial Intelligence,6,3.43,78
+220011,Mehwish Kalhoro,Faculty of Computer Engineering,Artificial Intelligence,5,2.41,78
+220012,Sara Chandio,Faculty of Computer Engineering,Artificial Intelligence,8,2.89,70
+220013,Ahmed Chandio,Faculty of Computer Engineering,Software Engineering,4,3.33,87
+220014,Ahmed Memon,Faculty of Computer Engineering,Software Engineering,7,4.0,98
+220015,Usman Jatoi,Faculty of Computer Engineering,Software Engineering,6,3.23,83
+220016,Zain Chandio,Faculty of Computer Engineering,Software Engineering,7,2.87,89
+220017,Noor Kalhoro,Faculty of Computer Engineering,Software Engineering,4,2.94,78
+220018,Ali Jatoi,Faculty of Computer Engineering,Software Engineering,2,2.05,71
+220019,Farhan Memon,Faculty of Electrical and Electronic Engineering,Electrical Engineering,4,1.57,65
+220020,Imran Shaikh,Faculty of Electrical and Electronic Engineering,Electrical Engineering,3,1.14,65
+220021,Asif Kalhoro,Faculty of Electrical and Electronic Engineering,Electrical Engineering,7,2.87,79
+220022,Kashif Kalhoro,Faculty of Electrical and Electronic Engineering,Electrical Engineering,5,2.25,93
+220023,Imran Kalhoro,Faculty of Electrical and Electronic Engineering,Electrical Engineering,2,2.52,78
+220024,Farhan Jatoi,Faculty of Electrical and Electronic Engineering,Electrical Engineering,6,1.76,74
+220025,Ali Leghari,Faculty of Electrical and Electronic Engineering,Electrical (Automation & Control Engineering),6,2.51,86
+220026,Ali Memon,Faculty of Electrical and Electronic Engineering,Electrical (Automation & Control Engineering),5,3.13,84
+220027,Usman Jatoi,Faculty of Electrical and Electronic Engineering,Electrical (Automation & Control Engineering),6,2.74,64
+220028,Ahmed Abro,Faculty of Electrical and Electronic Engineering,Electrical (Automation & Control Engineering),8,2.4,70
+220029,Asif Soomro,Faculty of Electrical and Electronic Engineering,Electrical (Automation & Control Engineering),4,1.97,70
+220030,Imran Leghari,Faculty of Electrical and Electronic Engineering,Electrical (Automation & Control Engineering),6,2.82,80
+220031,Sana Abro,Faculty of Electrical and Electronic Engineering,Electronic Engineering,8,2.44,78
+220032,Asif Khoso,Faculty of Electrical and Electronic Engineering,Electronic Engineering,7,2.39,81
+220033,Mehwish Khoso,Faculty of Electrical and Electronic Engineering,Electronic Engineering,7,3.14,85
+220034,Bilal Bhutto,Faculty of Electrical and Electronic Engineering,Electronic Engineering,7,2.96,63
+220035,Hina Jatoi,Faculty of Electrical and Electronic Engineering,Electronic Engineering,2,1.6,82
+220036,Farhan Jatoi,Faculty of Electrical and Electronic Engineering,Electronic Engineering,3,3.36,77
+220037,Farhan Shaikh,Faculty of Electrical and Electronic Engineering,Telecommunication Engineering,1,3.15,98
+220038,Kashif Rind,Faculty of Electrical and Electronic Engineering,Telecommunication Engineering,5,2.36,77
+220039,Noor Jatoi,Faculty of Electrical and Electronic Engineering,Telecommunication Engineering,5,2.19,77
+220040,Bilal Khoso,Faculty of Electrical and Electronic Engineering,Telecommunication Engineering,4,2.11,64
+220041,Imran Leghari,Faculty of Electrical and Electronic Engineering,Telecommunication Engineering,2,3.01,83
+220042,Sana Chandio,Faculty of Electrical and Electronic Engineering,Telecommunication Engineering,7,2.38,73
+220043,Fatima Bhutto,Faculty of Electrical and Electronic Engineering,Biomedical Engineering,3,2.77,68
+220044,Mehwish Mangi,Faculty of Electrical and Electronic Engineering,Biomedical Engineering,1,3.88,82
+220045,Sana Bhutto,Faculty of Electrical and Electronic Engineering,Biomedical Engineering,5,2.55,94
+220046,Sana Kalhoro,Faculty of Electrical and Electronic Engineering,Biomedical Engineering,5,2.88,76
+220047,Ayesha Shaikh,Faculty of Electrical and Electronic Engineering,Biomedical Engineering,7,3.06,84
+220048,Ali Leghari,Faculty of Electrical and Electronic Engineering,Biomedical Engineering,2,3.19,79
+220049,Kashif Rind,Faculty of Civil and Mechanical Engineering,Civil Engineering,8,3.79,83
+220050,Mehwish Mangi,Faculty of Civil and Mechanical Engineering,Civil Engineering,7,2.94,78
+220051,Ali Soomro,Faculty of Civil and Mechanical Engineering,Civil Engineering,3,2.66,79
+220052,Farhan Abro,Faculty of Civil and Mechanical Engineering,Civil Engineering,3,3.55,94
+220053,Ali Shaikh,Faculty of Civil and Mechanical Engineering,Civil Engineering,2,1.98,85
+220054,Noor Kalhoro,Faculty of Civil and Mechanical Engineering,Civil Engineering,6,2.85,87
+220055,Mehwish Bhutto,Faculty of Civil and Mechanical Engineering,Mechanical Engineering,6,2.46,94
+220056,Bilal Leghari,Faculty of Civil and Mechanical Engineering,Mechanical Engineering,2,3.13,89
+220057,Farhan Abro,Faculty of Civil and Mechanical Engineering,Mechanical Engineering,4,3.57,76
+220058,Fatima Chandio,Faculty of Civil and Mechanical Engineering,Mechanical Engineering,3,3.14,74
+220059,Mehwish Khoso,Faculty of Civil and Mechanical Engineering,Mechanical Engineering,2,1.63,52
+220060,Kashif Mangi,Faculty of Civil and Mechanical Engineering,Mechanical Engineering,7,2.79,79
+220061,Noor Leghari,Faculty of Civil and Mechanical Engineering,Building and Architectural Engineering,5,2.37,69
+220062,Rabia Leghari,Faculty of Civil and Mechanical Engineering,Building and Architectural Engineering,1,2.65,80
+220063,Mehwish Soomro,Faculty of Civil and Mechanical Engineering,Building and Architectural Engineering,6,2.1,67
+220064,Usman Memon,Faculty of Civil and Mechanical Engineering,Building and Architectural Engineering,7,2.65,73
+220065,Hamza Chandio,Faculty of Civil and Mechanical Engineering,Building and Architectural Engineering,4,3.65,74
+220066,Asif Khoso,Faculty of Civil and Mechanical Engineering,Building and Architectural Engineering,8,2.5,79
+220067,Ahmed Bhutto,Faculty of Civil and Mechanical Engineering,Industrial and Manufacturing Engineering,5,2.74,82
+220068,Fatima Jatoi,Faculty of Civil and Mechanical Engineering,Industrial and Manufacturing Engineering,6,3.51,86
+220069,Imran Mangi,Faculty of Civil and Mechanical Engineering,Industrial and Manufacturing Engineering,6,1.64,41
+220070,Kashif Abro,Faculty of Civil and Mechanical Engineering,Industrial and Manufacturing Engineering,4,3.56,87
+220071,Fatima Mangi,Faculty of Civil and Mechanical Engineering,Industrial and Manufacturing Engineering,8,3.56,88
+220072,Hamza Memon,Faculty of Civil and Mechanical Engineering,Industrial and Manufacturing Engineering,2,2.67,81
+220073,Bilal Khoso,Faculty of Environmental Engineering,Environment Engineering,6,2.37,84
+220074,Hina Mangi,Faculty of Environmental Engineering,Environment Engineering,5,3.62,75
+220075,Usman Chandio,Faculty of Environmental Engineering,Environment Engineering,7,2.23,95
+220076,Asif Rind,Faculty of Environmental Engineering,Environment Engineering,6,2.72,89
+220077,Usman Kalhoro,Faculty of Environmental Engineering,Environment Engineering,3,3.05,83
+220078,Kashif Abro,Faculty of Environmental Engineering,Environment Engineering,7,2.38,76
+220079,Rabia Memon,Faculty of Environmental Engineering,Energy Systems Engineering,6,2.88,97
+220080,Zain Kalhoro,Faculty of Environmental Engineering,Energy Systems Engineering,7,2.68,63
+220081,Rabia Chandio,Faculty of Environmental Engineering,Energy Systems Engineering,6,3.43,93
+220082,Asif Leghari,Faculty of Environmental Engineering,Energy Systems Engineering,4,2.95,80
+220083,Kashif Shaikh,Faculty of Environmental Engineering,Energy Systems Engineering,5,3.76,94
+220084,Usman Mangi,Faculty of Environmental Engineering,Energy Systems Engineering,4,2.48,73
+220085,Usman Leghari,Faculty of Environmental Engineering,Chemical Engineering,1,2.38,68
+220086,Usman Jatoi,Faculty of Environmental Engineering,Chemical Engineering,4,3.2,81
+220087,Sana Shaikh,Faculty of Environmental Engineering,Chemical Engineering,7,2.84,66
+220088,Usman Kalhoro,Faculty of Environmental Engineering,Chemical Engineering,2,2.11,86
+220089,Sana Shaikh,Faculty of Environmental Engineering,Chemical Engineering,3,1.83,90
+220090,Farhan Khoso,Faculty of Environmental Engineering,Chemical Engineering,1,2.95,77
+220091,Hina Mangi,Faculty of Science,Data Science,7,3.19,100
+220092,Sana Memon,Faculty of Science,Data Science,7,2.79,71
+220093,Fatima Bhutto,Faculty of Science,Data Science,1,2.07,89
+220094,Fatima Mangi,Faculty of Science,Data Science,4,3.47,100
+220095,Rabia Rind,Faculty of Science,Data Science,3,3.97,88
+220096,Asif Shaikh,Faculty of Science,Data Science,2,1.95,76
+220097,Asif Shaikh,Faculty of Science,Computer Science,5,1.94,71
+220098,Mehwish Soomro,Faculty of Science,Computer Science,6,2.36,81
+220099,Imran Kalhoro,Faculty of Science,Computer Science,7,2.49,81
+220100,Usman Bhutto,Faculty of Science,Computer Science,4,2.73,100
+220101,Sana Kalhoro,Faculty of Science,Computer Science,3,1.38,76
+220102,Mehwish Bhutto,Faculty of Science,Computer Science,8,1.7,82
+220103,Ayesha Leghari,Faculty of Science,Information Technology,4,2.43,72
+220104,Imran Bhutto,Faculty of Science,Information Technology,3,3.98,92
+220105,Ayesha Leghari,Faculty of Science,Information Technology,8,2.74,79
+220106,Fatima Mangi,Faculty of Science,Information Technology,7,2.81,70
+220107,Sara Soomro,Faculty of Science,Information Technology,6,3.37,81
+220108,Zain Kalhoro,Faculty of Science,Information Technology,2,2.52,76
+220109,Fatima Soomro,Faculty of Science,Mathematics and Statistics,8,3.31,83
+220110,Usman Abro,Faculty of Science,Mathematics and Statistics,5,3.35,68
+220111,Mehwish Khoso,Faculty of Science,Mathematics and Statistics,4,2.95,79
+220112,Hina Khoso,Faculty of Science,Mathematics and Statistics,6,2.9,70
+220113,Zain Rind,Faculty of Science,Mathematics and Statistics,2,2.94,64
+220114,Ali Abro,Faculty of Science,Mathematics and Statistics,3,3.05,97
+220115,Ahmed Chandio,Faculty of Science,Basic Science and Related Studies,2,4.0,88
+220116,Ali Rind,Faculty of Science,Basic Science and Related Studies,8,2.57,82
+220117,Imran Kalhoro,Faculty of Science,Basic Science and Related Studies,5,3.46,74
+220118,Hamza Memon,Faculty of Science,Basic Science and Related Studies,5,3.07,73
+220119,Ayesha Leghari,Faculty of Science,Basic Science and Related Studies,8,2.93,77
+220120,Ali Bhutto,Faculty of Science,Basic Science and Related Studies,1,2.57,70
+220121,Hina Kalhoro,Faculty of Science,English (Language and Literature),5,2.03,76
+220122,Sana Khoso,Faculty of Science,English (Language and Literature),6,2.39,87
+220123,Hamza Chandio,Faculty of Science,English (Language and Literature),7,2.54,84
+220124,Fatima Jatoi,Faculty of Science,English (Language and Literature),6,2.52,86
+220125,Kashif Memon,Faculty of Science,English (Language and Literature),2,2.83,71
+220126,Sana Leghari,Faculty of Science,English (Language and Literature),7,3.04,93
+220127,Asif Leghari,Faculty of Science,Physics,4,2.96,72
+220128,Fatima Abro,Faculty of Science,Physics,6,2.59,91
+220129,Noor Soomro,Faculty of Science,Physics,4,2.12,66
+220130,Usman Soomro,Faculty of Science,Physics,5,2.11,70
+220131,Fatima Soomro,Faculty of Science,Physics,6,2.89,72
+220132,Kashif Kalhoro,Faculty of Science,Physics,4,1.47,91
+220133,Usman Soomro,Faculty of Science,Cyber Security,7,3.11,84
+220134,Bilal Mangi,Faculty of Science,Cyber Security,4,2.3,63
+220135,Fatima Kalhoro,Faculty of Science,Cyber Security,2,2.26,64
+220136,Sana Khoso,Faculty of Science,Cyber Security,4,3.41,76
+220137,Kashif Chandio,Faculty of Science,Cyber Security,7,3.85,61
+220138,Imran Rind,Faculty of Science,Cyber Security,5,2.31,89
+220139,Ahmed Khoso,Faculty of Science,Chemistry,5,2.28,92
+220140,Noor Bhutto,Faculty of Science,Chemistry,4,2.6,71
+220141,Hamza Mangi,Faculty of Science,Chemistry,3,2.79,81
+220142,Asif Chandio,Faculty of Science,Chemistry,3,2.14,76
+220143,Hina Mangi,Faculty of Science,Chemistry,2,3.9,88
+220144,Hamza Khoso,Faculty of Science,Chemistry,3,2.77,75
+220145,Sara Memon,Faculty of Technology,Food Engineering Technology,4,3.2,83
+220146,Kashif Kalhoro,Faculty of Technology,Food Engineering Technology,3,2.7,74
+220147,Hamza Jatoi,Faculty of Technology,Food Engineering Technology,3,2.48,82
+220148,Rabia Khoso,Faculty of Technology,Food Engineering Technology,7,2.11,77
+220149,Ayesha Bhutto,Faculty of Technology,Food Engineering Technology,1,2.57,59
+220150,Usman Bhutto,Faculty of Technology,Food Engineering Technology,6,2.99,81
+220151,Farhan Jatoi,Faculty of Technology,Civil Engineering Technology,7,2.43,73
+220152,Sana Khoso,Faculty of Technology,Civil Engineering Technology,2,1.72,76
+220153,Sana Abro,Faculty of Technology,Civil Engineering Technology,2,2.35,74
+220154,Mehwish Khoso,Faculty of Technology,Civil Engineering Technology,2,1.44,77
+220155,Mehwish Bhutto,Faculty of Technology,Civil Engineering Technology,4,2.73,75
+220156,Ali Chandio,Faculty of Technology,Civil Engineering Technology,8,3.0,87
